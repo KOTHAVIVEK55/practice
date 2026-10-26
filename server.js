@@ -9,12 +9,17 @@ server.listen(3000,()=>{
 
 
 
-// console.log("1000");
-// setTimeout(()=>{
-//     console.log("3000");
-// },2000);
 
-// console.log("1000");
+
+
+
+
+console.log("1000");
+setTimeout(()=>{
+    console.log("3000");
+},2000);
+
+console.log("1000");
 
 
 
